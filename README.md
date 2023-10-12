@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3>How to Use:</h3>
-<p>https://www.youtube.com/watch?v=3P0BMpX1vXM</p>
 
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
